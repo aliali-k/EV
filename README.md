@@ -2,3 +2,4 @@ https://darwinmotion.com/blogs/what-is-v-hz-control-mode-for-ac-drives What is V
 https://youtu.be/HmB2Egay3m8?si=wGZpCdu9x0XScwd9 COMPLETE VFD IMPORTANT TOPIC FOR INTERVIEWS AND EXAMS AND DRIVES 
 **Future of EEE USE THIS CHANNEL TO STUDY PWM AND INVERTERS OF POWER ELECTRONICS TOO BEST EXPLANTION ON ENTIRE YT **
 https://youtu.be/yEPe7RDtkgo?si=d149Y-c339HFcXAc ALSO GOOD FOR V/F CONTROL ANIMATION
+https://www.youtube.com/watch?v=Fq6vNt1DcYA&list=PL6oes2L0ajt2u6obSQaJh2dt8GyFIqTMP&index=34 BLDC BEST SERIES ON YT 
