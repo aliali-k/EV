@@ -1,6 +1,10 @@
 
 <img width="1440" height="720" alt="Firefly_Gemini Flash__generate one image related to EV and various aspects related to EV Technologies elec 912545" src="https://github.com/user-attachments/assets/574eebcc-ad5f-40be-b50d-93936115e99a" />
 
+
+https://youtu.be/6yqRlYyY1bk?si=CY1L6uzlVcDjJm4L IMP TOPIC TO BE COVERED + 2 ASSIGNMENTS + CHAPTER 6 PENDING
+
+
 https://darwinmotion.com/blogs/what-is-v-hz-control-mode-for-ac-drives What is V/Hz Control? direct questions very important drive technique 
 https://youtu.be/HmB2Egay3m8?si=wGZpCdu9x0XScwd9 COMPLETE VFD IMPORTANT TOPIC FOR INTERVIEWS AND EXAMS AND DRIVES 
 **Future of EEE USE THIS CHANNEL TO STUDY PWM AND INVERTERS OF POWER ELECTRONICS TOO BEST EXPLANTION ON ENTIRE YT **
